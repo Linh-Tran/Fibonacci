@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FibonacciLab_Linh_Tran.jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="FibonacciLab_Linh_Tran.jar.jar">
+      <element id="module-output" name="Fibonacci" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>

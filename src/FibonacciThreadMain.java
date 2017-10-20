@@ -12,7 +12,6 @@ public class FibonacciThreadMain
   /**
    * Function: FibonacciThreadMain()
    * This constructor of the main class creates
-   * the two worker threads (A and B) and calls start() to start their run()
    * method. It implements the a for loop that iterates and prints out the worker
    * thread result output every 2 seconds. We have a total of three threads
    * the main thread, and two workers. After 10 iterations the main thread kills
